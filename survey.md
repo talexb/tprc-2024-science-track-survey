@@ -3,36 +3,35 @@ providing an additional track at the the 2024 TPRC that highlights the
 application of Perl and Raku for the pursuit of science. Please answer the
 following questions in order to assist us in planning this potential new track.
 
-1. Have you attended a Perl Conference before?
+1. Have you attended a Perl Conference (YAPC or TPRC) before?
 - yes
 - no
 
-2. Are you interested in submitting in attending a seperate Science Track?
+2. Are you interested in attending a seperate Science Track at the next Perl Conference?
  - yes
  - no
 
-3. Do you have a paper or poster idea that you may consider submitting to the
-CFP?
+3. Do you have a paper or poster idea that you may consider submitting for the next Perl Conference?
  
  - yes
  - no
 
-4. If `yes` to #2, what topics are are you considering?
+4. If `yes` to #3, what topics are are you considering?
 
 (text field)
 
-6. Rank your prefernce for Track availability:
+5. Rank your preference for Track availability:
  
  - Every day of the conference, same as the Perl and Raku tracks
  - Only on some of the days
  - Limited to one day 
  
-6. Would a Scientific Track increase the chances of attending the TPRC?
+6. Would a Scientific Track increase the chances of you attending the Perl Conference?
  
  - yes
  - no
 
-7. Would your employer be more likely to sponsor you attending the TPRC if there
+7. Would your employer be more likely to sponsor you attending the Perl Conference if there
 is a Science Track?
  
  - yes
@@ -50,14 +49,14 @@ conferences?
  - no
 
 10. How does it affect your willingness to submit a paper to know that the papers
-and talks will be made freely available, but you maintain the copy right (<link
+and talks will be made freely available, but you maintain the copyright (<link
 to related OSS license>).
  
  - more likely to submit a proposal
  - neutral
  - less likely to submit a proposal
 
-11. How many colleages do you plan to inform about the establishment oif this Perl
+11. How many colleages do you plan to inform about the establishment oif this 
 Science Track, if it happens?
  
  - none
