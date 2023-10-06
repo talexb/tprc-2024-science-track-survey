@@ -7,7 +7,7 @@ following questions in order to assist us in planning this potential new track.
 - yes
 - no
 
-2. Are you interested in attending a seperate Science Track at the next Perl Conference?
+2. Are you interested in attending talks in a separate Science Track at the next Perl Conference?
  - yes
  - no
 
@@ -16,7 +16,7 @@ following questions in order to assist us in planning this potential new track.
  - yes
  - no
 
-4. If `yes` to #3, what topics are are you considering?
+4. If `yes` to #3, what topics are are you considering? List as many as you like.
 
 (text field)
 
@@ -32,7 +32,7 @@ following questions in order to assist us in planning this potential new track.
  - no
 
 7. Would your employer be more likely to sponsor you attending the Perl Conference if there
-is a Science Track?
+were a Science Track?
  
  - yes
  - no
@@ -56,7 +56,7 @@ to related OSS license>).
  - neutral
  - less likely to submit a proposal
 
-11. How many colleages do you plan to inform about the establishment oif this 
+11. How many colleages do you plan to inform about the establishment of this
 Science Track, if it happens?
  
  - none
